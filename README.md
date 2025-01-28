@@ -1,7 +1,3 @@
-shreyapmahajan20
-Here's a suggested **README.md** content for your travel website project:
-
----
 
 # 🌍 Travel Website - Explore Dream Destinations
 
